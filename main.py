@@ -1,6 +1,4 @@
-# Создание и запуск приложения, программирование интерфейса экранов и действий на них
-# Здесь должен быть твой код
-
+# я молодец
 from kivy.app import App
 from kivy.uix.label import Label
 from kivy.uix.button import Button

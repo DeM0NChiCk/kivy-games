@@ -1,1 +1,1 @@
-# pygame-games
+# kivy-games
